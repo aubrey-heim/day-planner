@@ -67,3 +67,15 @@ $(".saveBtn").on("click", function(event){
     //saves the updated array to local storage as a string
     localStorage.setItem("savedText", JSON.stringify(savedText))
 })
+
+//changes color of save button icon to black when mouse hovers over the button
+$(".saveBtn").on("mouseover", function(event){
+    event.preventDefault()
+    event.target.style.color = "black"
+})
+
+//changes color of save button icon to white when mouse leaves the button
+$(".saveBtn").on("mouseout", function(event){
+    event.preventDefault()
+    event.target.style.color = "white"
+})
