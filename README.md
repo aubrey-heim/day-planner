@@ -24,7 +24,7 @@ An additional unexpected benefit of this project is that I was given the opportu
 ## Accessing the Project
 The HTML and CSS files are included in this repository for review. 
 
-Additionally, you can access the deployed webpage at https://aubrey-heim.github.io/code-quiz/
+Additionally, you can access the deployed webpage at https://aubrey-heim.github.io/day-planner/
 
 ## Acknowledgments
 Example gif, CSS file, and original HTML file provided by the UW Full-Stack Web Development Bootcamp: https://uwa.bootcampcontent.com/UWA-Bootcamp/uw-sea-fsf-pt-08-2020-u-c
